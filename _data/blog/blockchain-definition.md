@@ -6,7 +6,7 @@ title: 'Blockchain Definition: What is Blockchain?'
 description: 'A blockchain is a chain of linked blocks containing data or transaction data that are organized in a sequential order and are fully secured by cryptography.'
 thumbnail: /assets/blockchainlwp.png
 ---
-In Simple: A blockchain is a chain of linked blocks containing data or transaction data that are organized in a sequential order and are fully secured by cryptography.
+### In Simple: A blockchain is a chain of linked blocks containing data or transaction data that are organized in a sequential order and are fully secured by cryptography.
 
 
 
