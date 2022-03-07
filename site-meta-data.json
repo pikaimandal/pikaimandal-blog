@@ -1,9 +1,9 @@
 {
-  "title": "Delog",
-  "siteUrl": "https://delog-w3layouts.netlify.com/",
-  "description": "Delog, a GatsbyJS and Netlify CMS starter for Designers and Developers",
+  "title": "Learn with Pikai",
+  "siteUrl": "https://learn.pikaimandal.com/",
+  "description": "Learn with Pikai is a blog for learning blockchain development.",
   "home": {
-    "title": "Hi! I'm Delog",
-    "description": "I have been specifically designed to become a digital home for designers and developers, help them build amazing professional looking websites with ease. You don't have to worry about nitty gritty of web hosting services to run a blog and yet take full advantage of CMS to manage content :)"
+    "title": "Hi! I'm Pikai",
+    "description": "Hello, I'm Pikai. I have been a blockchain enthusiast and a software developer for almost four years. I am very passionate about cryptocurrencies and the technology behind them. A die-hard supporter of Ethereum and love to play with the technology.🙂"
   }
 }
